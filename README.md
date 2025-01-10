@@ -1,59 +1,29 @@
-# Pha5eInspiredHeroSectionDemo
+# PHA5E-INSPIRED-HERO-SECTION
+A hero section inspired by the one found on the PHA5E website.
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.6.
+This component is made for educational and demonstrational purposes only!
 
-## Development server
+Check it out at: https://pha5e-inspired-hero-section.netlify.app/
 
-To start a local development server, run:
+This content is a digital replica inspired by [STUDIO PHA5E](https://www.pha5e.com/). All rights to the original work are owned by [STUDIO PHA5E](https://www.pha5e.com/).
 
-```bash
-ng serve
-```
+![image text](https://github.com/Northstrix/PHA5E-INSPIRED-HERO-SECTION/blob/main/screenshots/1.png?raw=true)
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+![image text](https://github.com/Northstrix/PHA5E-INSPIRED-HERO-SECTION/blob/main/screenshots/2.png?raw=true)
 
-## Code scaffolding
+# Credit
+[Text scroll and hover effect with GSAP and clip](https://codepen.io/Juxtopposed/pen/mdQaNbG) by [Juxtopposed](https://codepen.io/Juxtopposed)
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+[Text Reveal Animation](https://codepen.io/swatiparge/pen/LYVMEag) by [Swati Parge](https://codepen.io/swatiparge)
 
-```bash
-ng generate component component-name
-```
+[Chronicle Button](https://codepen.io/Haaguitos/pen/OJrVZdJ) by [Haaguitos](https://codepen.io/Haaguitos)
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+[Fontsource Alef](https://www.npmjs.com/package/@fontsource/alef) by [fontsource](https://github.com/fontsource)
 
-```bash
-ng generate --help
-```
+[Copyright (c) 2012, HaGilda & Mushon Zer-Aviv](http://alef.hagilda.com%7Calef@hagilda.com/)
 
-## Building
+[task manager](https://codepen.io/sumit011/pen/WNVXReO) by [Sumit](https://codepen.io/sumit011)
 
-To build the project run:
+Lyrics from [נועה קירל - אם אתה גבר](https://www.youtube.com/watch?v=9on_1WpYvAY)
 
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+[Perplexity](https://www.perplexity.ai)
