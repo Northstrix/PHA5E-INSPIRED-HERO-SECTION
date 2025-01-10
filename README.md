@@ -1,5 +1,5 @@
 # PHA5E-INSPIRED-HERO-SECTION
-A hero section inspired by the one found on the PHA5E website.
+A hero section inspired by the one found on the PHA5E website, made using Angular.
 
 This component is made for educational and demonstrational purposes only!
 
