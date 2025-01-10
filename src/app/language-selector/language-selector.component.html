@@ -1,0 +1,22 @@
+<div class="language-selector-overlay">
+  <div class="language-selector-content">
+    <h2>Select Your Language</h2>
+    <div class="language-list">
+      <div *ngFor="let lang of languages" 
+           (click)="handleLanguageSelect(lang.code)"
+           [class.selected]="currentLanguage === lang.code"
+           [class.rtl]="lang.code === 'he'"
+           class="language-item">
+        <img [src]="lang.flag" [alt]="lang.name">
+        <span>{{ lang.name }}</span>
+      </div>
+    </div>
+    <div class="button-container">
+      <app-chronicle-button
+        [text]="getContinueText()"
+        (onClick)="continueWithLanguage()"
+        [width]="'200px'"
+      ></app-chronicle-button>
+    </div>
+  </div>
+</div>

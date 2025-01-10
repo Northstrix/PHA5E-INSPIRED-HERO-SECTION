@@ -1,0 +1,10 @@
+<button 
+  #button 
+  (click)="onClick()" 
+  [ngStyle]="{
+    width: buttonWidth,
+    borderRadius: borderRadius,
+    '--button-color': buttonColor
+  }">
+  {{ buttonText }}
+</button>

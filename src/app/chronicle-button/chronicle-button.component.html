@@ -1,0 +1,17 @@
+<button 
+  class="chronicleButton"
+  [class.outlined]="outlined"
+  [style.--hover-color]="hoverColor"
+  [style.--text-color]="outlined ? 'var(--chronicle-button-background)' : 'var(--chronicle-button-negative-foreground)'"
+  [style.--outline-padding-adjustment]="outlinePaddingAdjustment"
+  [style.--outlined-button-background-on-hover]="outlinedButtonBackgroundOnHover"
+  [style.--chronicle-button-background]="customBackground"
+  [style.--chronicle-button-foreground]="customForeground"
+  [style.width]="width"
+  [style.borderRadius]="borderRadius"
+  [style.fontFamily]="fontFamily"
+  (click)="handleClick()"
+>
+  <span><em>{{text}}</em></span>
+  <span><em>{{text}}</em></span>
+</button>
